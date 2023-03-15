@@ -2,6 +2,11 @@
 
 A place for Harbor community related material.
 
+
+# CLA Test
+
+Test
+
 ## Community Meetings
 
 The Harbor Project holds bi-weekly community calls. To join or watch previous meeting notes and recordings, please see [meeting schedule](MEETING_SCHEDULE.md).
