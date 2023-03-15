@@ -3,6 +3,11 @@
 [GOVERNANCE.md](https://github.com/goharbor/community/blob/master/GOVERNANCE.md)
 describes governance guidelines and maintainer responsibilities.
 
+
+# CLA Test
+
+Test
+
 ## Maintainers
 
 | Maintainer | GitHub ID | Affiliation |
